@@ -1,0 +1,6 @@
+{
+	"bin" : {
+		"type": "module",
+		"brain-games" : "/bin/brain-games.js" 
+	} 
+}
